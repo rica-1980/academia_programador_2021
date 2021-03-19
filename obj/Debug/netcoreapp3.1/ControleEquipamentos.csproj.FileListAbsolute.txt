@@ -1,0 +1,26 @@
+C:\Users\Laura\source\repos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.exe
+C:\Users\Laura\source\repos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.deps.json
+C:\Users\Laura\source\repos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.runtimeconfig.json
+C:\Users\Laura\source\repos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.runtimeconfig.dev.json
+C:\Users\Laura\source\repos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.dll
+C:\Users\Laura\source\repos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.pdb
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.AssemblyInfo.cs
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.dll
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.pdb
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.genruntimeconfig.cache
+C:\Users\Laura\source\repos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.csprojAssemblyReference.cache
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.exe
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.deps.json
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.runtimeconfig.json
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.runtimeconfig.dev.json
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.dll
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\bin\Debug\netcoreapp3.1\ControleEquipamentos.pdb
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.csprojAssemblyReference.cache
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.AssemblyInfoInputs.cache
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.AssemblyInfo.cs
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.csproj.CoreCompileInputs.cache
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.dll
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.pdb
+C:\Users\Tio Rica\Downloads\ControleEquipamentos\ControleEquipamentos\obj\Debug\netcoreapp3.1\ControleEquipamentos.genruntimeconfig.cache
